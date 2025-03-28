@@ -1,3 +1,3 @@
 # Artificial Intelligence and Machine Learning for Applied Psychology Research
-[GitHub Pages](https://pages.github.com/)
+:earth_asia: [Download the slides](https://pages.github.com/)
 ![image](https://github.com/user-attachments/assets/d9619894-3fd6-41a5-9f9a-420a6952b7d4)
