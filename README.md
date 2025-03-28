@@ -1,4 +1,4 @@
 # Artificial Intelligence and Machine Learning for Applied Psychology Research
 :earth_asia: [Download the slides](https://github.com/anoopkdcs/AI-ML_AppliedPsychologyResearch/blob/main/PGR-AI_ML.pdf)
-[sceffnet.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/SC-EffNet/sceffnet.py)
+<br>
 ![image](https://github.com/user-attachments/assets/d9619894-3fd6-41a5-9f9a-420a6952b7d4)
